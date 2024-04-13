@@ -1,0 +1,52 @@
+state_name,state_abbr,total_poverty_rate,child_poverty_rate
+Alabama,AL,16.3,22.7
+Alaska,AK,10.8,13.5
+Arizona,AZ,12.9,17.8
+Arkansas,AR,16.0,21.8
+California,CA,12.3,15.8
+Colorado,CO,9.7,11.8
+Connecticut,CT,10.1,12.9
+Delaware,DE,11.5,16.2
+District of Columbia,DC,16.8,25.5
+Florida,FL,13.2,18.4
+Georgia,GA,14.2,20.5
+Hawaii,HI,10.9,12.9
+Idaho,ID,10.8,12.5
+Illinois,IL,12.1,15.9
+Indiana,IN,12.1,15.7
+Iowa,IA,11.0,12.4
+Kansas,KS,11.6,13.5
+Kentucky,KY,16.3,21.2
+Louisiana,LA,19.5,26.9
+Maine,ME,11.2,13.8
+Maryland,MD,10.3,14.0
+Massachusetts,MA,10.4,12.8
+Michigan,MI,13.0,17.6
+Minnesota,MN,9.3,10.8
+Mississippi,MS,19.2,27.1
+Missouri,MO,12.8,16.5
+Montana,MT,12.0,14.9
+Nebraska,NE,10.5,12.1
+Nevada,NV,14.0,18.8
+New Hampshire,NH,7.4,9.3
+New Jersey,NJ,10.2,13.9
+New Mexico,NM,17.7,23.1
+New York,NY,14.0,18.8
+North Carolina,NC,13.5,18.2
+North Dakota,CD,10.9,11.5
+Ohio,OH,13.3,18.2
+Oklahoma,OK,15.4,20.5
+Oregon,OR,12.2,13.8
+Pennsylvania,PA,12.0,16.3
+Rhode Island,RI,12.1,17.0
+South Carolina,SC,14.5,19.7
+South Dakota,SD,11.9,14.4
+Tennessee,TN,13.7,18.4
+Texas,TX,14.2,19.5
+Utah,UT,8.7,8.5
+Vermont,VT,10.2,11.2
+Virginia,VA,10.3,13.3
+Washington,WA,9.9,12.0
+West Virginia,WV,16.8,21.4
+Wisconsin,WI,10.8,13.6
+Wyoming,WY,10.6,12.1
